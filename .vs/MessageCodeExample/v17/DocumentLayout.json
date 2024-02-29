@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Nackademin\\OAOD\\MessageCodeExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD6F45E3-59CA-47C2-9ADA-F7B4838E2130}|MessageCodeExample\\MessageCodeExample.csproj|c:\\nackademin\\oaod\\messagecodeexample\\messagecodeexample\\context\\systemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD6F45E3-59CA-47C2-9ADA-F7B4838E2130}|MessageCodeExample\\MessageCodeExample.csproj|solutionrelative:messagecodeexample\\context\\systemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD6F45E3-59CA-47C2-9ADA-F7B4838E2130}|MessageCodeExample\\MessageCodeExample.csproj|c:\\nackademin\\oaod\\messagecodeexample\\messagecodeexample\\entities\\meddelandeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD6F45E3-59CA-47C2-9ADA-F7B4838E2130}|MessageCodeExample\\MessageCodeExample.csproj|solutionrelative:messagecodeexample\\entities\\meddelandeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD6F45E3-59CA-47C2-9ADA-F7B4838E2130}|MessageCodeExample\\MessageCodeExample.csproj|c:\\nackademin\\oaod\\messagecodeexample\\messagecodeexample\\services\\employedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD6F45E3-59CA-47C2-9ADA-F7B4838E2130}|MessageCodeExample\\MessageCodeExample.csproj|solutionrelative:messagecodeexample\\services\\employedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD6F45E3-59CA-47C2-9ADA-F7B4838E2130}|MessageCodeExample\\MessageCodeExample.csproj|c:\\nackademin\\oaod\\messagecodeexample\\messagecodeexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD6F45E3-59CA-47C2-9ADA-F7B4838E2130}|MessageCodeExample\\MessageCodeExample.csproj|solutionrelative:messagecodeexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD6F45E3-59CA-47C2-9ADA-F7B4838E2130}|MessageCodeExample\\MessageCodeExample.csproj|c:\\nackademin\\oaod\\messagecodeexample\\messagecodeexample\\context\\messagedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD6F45E3-59CA-47C2-9ADA-F7B4838E2130}|MessageCodeExample\\MessageCodeExample.csproj|solutionrelative:messagecodeexample\\context\\messagedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 303,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SystemContext.cs",
+              "DocumentMoniker": "C:\\Nackademin\\OAOD\\MessageCodeExample\\MessageCodeExample\\Context\\SystemContext.cs",
+              "RelativeDocumentMoniker": "MessageCodeExample\\Context\\SystemContext.cs",
+              "ToolTip": "C:\\Nackademin\\OAOD\\MessageCodeExample\\MessageCodeExample\\Context\\SystemContext.cs",
+              "RelativeToolTip": "MessageCodeExample\\Context\\SystemContext.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAgAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T11:12:36.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Nackademin\\OAOD\\MessageCodeExample\\MessageCodeExample\\Program.cs",
+              "RelativeDocumentMoniker": "MessageCodeExample\\Program.cs",
+              "ToolTip": "C:\\Nackademin\\OAOD\\MessageCodeExample\\MessageCodeExample\\Program.cs",
+              "RelativeToolTip": "MessageCodeExample\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T10:48:37.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployedService.cs",
+              "DocumentMoniker": "C:\\Nackademin\\OAOD\\MessageCodeExample\\MessageCodeExample\\Services\\EmployedService.cs",
+              "RelativeDocumentMoniker": "MessageCodeExample\\Services\\EmployedService.cs",
+              "ToolTip": "C:\\Nackademin\\OAOD\\MessageCodeExample\\MessageCodeExample\\Services\\EmployedService.cs",
+              "RelativeToolTip": "MessageCodeExample\\Services\\EmployedService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T11:08:57.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MeddelandeEntity.cs",
+              "DocumentMoniker": "C:\\Nackademin\\OAOD\\MessageCodeExample\\MessageCodeExample\\Entities\\MeddelandeEntity.cs",
+              "RelativeDocumentMoniker": "MessageCodeExample\\Entities\\MeddelandeEntity.cs",
+              "ToolTip": "C:\\Nackademin\\OAOD\\MessageCodeExample\\MessageCodeExample\\Entities\\MeddelandeEntity.cs",
+              "RelativeToolTip": "MessageCodeExample\\Entities\\MeddelandeEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T10:53:21.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MessageDBContext.cs",
+              "DocumentMoniker": "C:\\Nackademin\\OAOD\\MessageCodeExample\\MessageCodeExample\\Context\\MessageDBContext.cs",
+              "RelativeDocumentMoniker": "MessageCodeExample\\Context\\MessageDBContext.cs",
+              "ToolTip": "C:\\Nackademin\\OAOD\\MessageCodeExample\\MessageCodeExample\\Context\\MessageDBContext.cs",
+              "RelativeToolTip": "MessageCodeExample\\Context\\MessageDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T11:13:09.881Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
